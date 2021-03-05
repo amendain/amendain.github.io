@@ -1,0 +1,68 @@
+/* * {
+ oi
+}*/
+body {
+    background: #f0f2f5;
+    font-family: 'Lato' ;
+}
+
+.principal-text {
+    align-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    font-size: 20px;   
+    justify-content: center; 
+    text-align: justify;
+    
+}
+
+header {
+    
+    padding: 5%;
+    padding-top: 2.5%;
+    background-color: #640064;
+    color: #f4f0f5f1;
+    margin: 0;
+    /*display: flex;*/
+    align-content: center;
+    text-align: center;
+}
+
+h1 {
+    
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 2.5px;
+    font-size: 45px;
+}
+
+ul li {
+    display: inline-block;
+    background-color: rgb(110, 5, 5);
+    object-position: center;
+    color: white;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+
+#initiationSite {
+    margin-bottom:0mm
+}
+
+#initiationtwo {
+    margin-top: 0mm;
+}
+
+#confete {
+    width: 10%;
+    margin-top: 0px;
+    
+}
+
+
+img, h1 {
+    display: inline-block;
+} 
